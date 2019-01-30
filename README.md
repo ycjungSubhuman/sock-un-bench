@@ -2,7 +2,7 @@
 
 ```bash
 $ python3 server.py &
-$ g++ main.cpp && a.out
+$ g++ main.cpp && ./a.out
 ```
 
 # My results
